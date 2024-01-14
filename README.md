@@ -1,5 +1,5 @@
 
-# Landing Page "The Boys"
+# Landing Page The Boys
 
 Desenvolvida com base nas instruções do [Tutorial](https://www.youtube.com/watch?v=525aCQi8C-o&list=PLfn37OP7hnFKP8hs_q8CbkFza1QKtzc-m&index=8).
 
